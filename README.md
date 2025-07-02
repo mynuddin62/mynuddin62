@@ -72,7 +72,6 @@ Welcome to my GitHub! I’m a results-driven software engineer with 3.5+ years o
 
 - 📧 ratulmynuddin@yahoo.com
 - 🔗 [LinkedIn](https://www.linkedin.com/in/mynuddin62)
-- 💻 [GitHub](https://github.com/mynuddin62)
 
 ---
 
