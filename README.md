@@ -35,7 +35,7 @@ Welcome to my GitHub! I’m a results-driven software engineer with 3.5+ years o
 
 ## 💼 Experience Snapshot
 
-### 💻 Software Engineer — Addie Soft Ltd. (Oct 2022 – May 2025)
+### 💻 Senior Software Engineer — Addie Soft Ltd. (Oct 2022 – May 2025)
 - Developed secure microservices with Spring Boot, Spring Security & JPA
 - Created reactive frontend modules with Angular & RxJS
 - Designed dynamic reporting tools using JasperReports & Thymeleaf
