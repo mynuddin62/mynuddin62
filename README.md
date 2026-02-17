@@ -35,14 +35,11 @@ Welcome to my GitHub! I’m a results-driven software engineer with 3.5+ years o
 
 ## 💼 Experience Snapshot
 
-### 💻 Software Engineer — Adventure Dhaka Ltd. (Jun 2025 – Present)
-- Participated in Agile ceremonies and followed SDLC best practices
-- Applied system design principles to build scalable, modular backend components
-
 ### 💻 Software Engineer — Addie Soft Ltd. (Oct 2022 – May 2025)
 - Developed secure microservices with Spring Boot, Spring Security & JPA
 - Created reactive frontend modules with Angular & RxJS
 - Designed dynamic reporting tools using JasperReports & Thymeleaf
+- Applied system design principles to build scalable, modular backend components
 
 ### 👨‍💻 Junior Programmer — Mysoft Ltd. (Nov 2021 – Sep 2022)
 - Focused on Java OOP, collections, and build tools (Maven)
